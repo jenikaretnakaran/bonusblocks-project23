@@ -9,7 +9,7 @@ For more details Please read documentation file
 
 Step 1: Download the repository using the command
 ```
-git@github.com:jenikaretnakaran/bonus_blocks_1.0.git
+git@github.com:jenikaretnakaran/bonusblocks-project23.git
 
 ```
 Step 2: Move to downloaded directory & Install the dependencies for testing using the command:
