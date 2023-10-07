@@ -3,6 +3,8 @@
 
 BONUS BLOCKS is a decentralized application (dApp) that allows employees to claim their salary and incentives in a stable cryptocurrency with full transparency. All financial transactions made through the dApp are recorded on the blockchain and can be easily tracked using a block explorer. This ensures the security and immutability of payment records, preventing any tampering or fraud.
 
+![image](https://github.com/jenikaretnakaran/bonusblocks-project23/assets/101125567/714c8a3f-d12a-4ced-ab5b-2ce662ad3717)
+
 For more details Please read documentation file
 
 ## SETTING UP:
@@ -137,7 +139,5 @@ Step 1: Click on BonusClaim option in navbar and Click Claim button
 Step 1: Click on transactions option in homepage navbar and then click on the block explorer link 
 
 ```
-
-
 
 
