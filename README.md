@@ -5,8 +5,6 @@ BONUS BLOCKS is a decentralized application (dApp) that allows employees to clai
 
 Check out : [![Alternate text](http://img.youtube.com/vi/tEafFW6TnTo/0.jpg)](http://www.youtube.com/watch?v=tEafFW6TnTo)
 
-![image](https://github.com/jenikaretnakaran/bonusblocks-project23/assets/101125567/714c8a3f-d12a-4ced-ab5b-2ce662ad3717)
-
 For more details Please read documentation file
 
 ## SETTING UP:
