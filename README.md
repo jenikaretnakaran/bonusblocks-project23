@@ -3,7 +3,7 @@
 
 BONUS BLOCKS is a decentralized application (dApp) that allows employees to claim their salary and incentives in a stable cryptocurrency with full transparency. All financial transactions made through the dApp are recorded on the blockchain and can be easily tracked using a block explorer. This ensures the security and immutability of payment records, preventing any tampering or fraud.
 
-Check out : [![Alternate text](http://img.youtube.com/vi/tEafFW6TnTo/0.jpg)](http://www.youtube.com/watch?v=tEafFW6TnTo)
+Check out the video : [![Alternate text](http://img.youtube.com/vi/tEafFW6TnTo/0.jpg)](http://www.youtube.com/watch?v=tEafFW6TnTo)
 
 For more details Please read documentation file
 
